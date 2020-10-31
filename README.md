@@ -19,7 +19,3 @@ El Upload consiste en el tiempo en la taza de transferencia de datos de subida, 
 <h2>Calcular el SpeedTest</h2>
 
 Existen en la actualidad varias aplicaciones para el cálculo del SpeedTest. Algunas de ellas se encuentran en forma de widgets, que son utilizables directamente por el usuario final desde su navegador de internet, en donde el procedimiento, aún cuando se hace la transferencia de un archivo, éste es eliminado al final del proceso, sin dejar rastro para el usuario que realiza la prueba para la conexión de su servicio.
-
-Para calcular tu ancho de banda actual, consulta el siguiente enlace:
-
-<a href="https://bitcu.co/test-de-velocidad-modem/">SpeedTest</a>
