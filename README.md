@@ -1,7 +1,7 @@
 #speedy
-Test de Velocidad de Internet
+[SpeedTest](https://bitcu.co/test-de-velocidad-modem/)
 
-Conceptos principales
+Test de Velocidad de Internet
 
 <h2>¿Qué es un SpeedTest?</h2>
 
