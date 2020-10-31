@@ -1,5 +1,4 @@
 #speedy
-[SpeedTest](https://bitcu.co/test-de-velocidad-modem/)
 
 Test de Velocidad de Internet
 
